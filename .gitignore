@@ -1,0 +1,18 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de lock
+*.lock
+
+# Resultados e logs
+results/
+*.jtl
+*.log
+
+# Arquivos temporários do JMeter
+*.bak
+test-plan-backup.jmx
+
+# Configurações sensíveis
+config/local_config.properties
